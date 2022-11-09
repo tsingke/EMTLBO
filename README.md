@@ -1,5 +1,4 @@
-# EMTLBO
-EMTLBO algorithm
+# EMTLBO： An improved teaching-learning-based optimization using adaptive cooperative learning for multiple sequence alignment
 
 ## Introduction
 
