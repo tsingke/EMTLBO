@@ -21,7 +21,7 @@ The source code of EMTLBO algorithm can be downloaded below：
  
 This work is supported by Natural Science Foundation of Shandong Province (62006144), Major Fundamental Research Project of Shandong Province (No. ZR2019ZD03), and Taishan Scholar Project of Shandong Province (No. ts20190924).
 
-**Thank you for taking the time to review our paper and we would like to express our sincere gratitude to you!**
+**Thank you for taking the time to review our paper and we would like to express our sincere gratitude to you! Best Regards！**
  
 
 
