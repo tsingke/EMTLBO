@@ -11,17 +11,18 @@ Teaching-Learning-Based Optimization (TLBO) is a population-based metaheuristic 
 
 ## Performance Review
 ![Fig. 1](./EMTLBO/Fig1.png)
-![Fig. 2](./EMTLBO/Fig2.png)
 ![Fig. 3](./EMTLBO/Fig3.png)
 
 ## Source Code
+The source code of EMTLBO algorithm can be downloaded below
+ [EMTLBO Algorithm Code](https://github.com/tsingke/EMTLBO/blob/main/EMTLBO.m)
+ 
+ ## Acknowledgements
+ 
+This work is supported by Natural Science Foundation of Shandong Province (62006144), Major Fundamental Research Project of Shandong Province (No. ZR2019ZD03), and Taishan Scholar Project of Shandong Province (No. ts20190924).
 
-
-
-```matlab
-
-
-```
+**Thank you for taking the time to review our paper and we would like to express our sincere gratitude to you!**
+ 
 
 
 
